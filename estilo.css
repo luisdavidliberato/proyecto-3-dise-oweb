@@ -11,7 +11,7 @@ body{
 }
 
 .contenedor{
-    width: 90px;
+    width: 90%;
     max-width: 1000px;
     overflow: hidden;
     margin: auto;
