@@ -43,7 +43,7 @@ header .menu a{
     color: #fff;
     text-decoration: none;
 }
-header .contenido-hader{
+header .contenido-header{
     margin: 120px 0;
     display: flex;
     flex-direction: column;
